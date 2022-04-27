@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+
+footer{
+    position: absolute;
+    width: 100%;
+    height: 292px;
+    left: 0px;
+    top: 2036px;
+    background: rgb(34, 76, 141);
+    font-family: 'Courier Prime';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    overflow: hidden;
+
+}
+
+.question p {
+    position: absolute;
+    top: 40px;
+    left: 5%;
+    color: #FFFF;
+    
+}
+
+.signup a{
+    position: absolute;
+    width: 188px;
+    height: 27px;
+    left: 75%;
+    top: 60px;
+    color: #FFFF;
+    text-decoration: none;
+}
+
+.form{
+    position: absolute;
+    left: 78%;
+    top: 120px;
+    }
+
+.email a {
+    position: absolute;
+    width: 389px;
+    height: 27px;
+    left: 5%;
+    top: 115px;
+    color: #FFFF;
+    text-decoration: none;
+}
+
+.email a:hover{
+    color:#89CAFF;
+}
+
+.insta a{
+position: absolute;
+left: 5%;
+top: 170px;
+border-color: #FFFF;
+}
+
+
+.discord a{
+    position: absolute;
+    left: 12%;
+    top: 175px;
+    color: #FFFF;
+}
+
+.circle {
+    background-color: #89CAFF;
+    border-radius: 50%;
+    position: absolute;
+    width: 475px;
+    height: 456px;
+    left: 80%;
+    top: 146px;
+  }
+
+.triangle{
+    position: absolute;
+    width: 140px;
+    height: 148px;
+    left: 45%;
+    background-image:
+          linear-gradient(to bottom right, transparent 50%, #80AFF6 0),
+          linear-gradient(to top right, #80AFF6 50%, transparent 0);
+    
+    background-size: 50% 100%;
+    background-repeat: no-repeat;
+    background-position: left, right;
+    transform: rotate(-180deg);
+}
